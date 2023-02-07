@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ameer-Jamal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular and NodeJs
+- 🌱 I’m currently learning Data Structures and algorithms
 - 💞️ I’m looking to collaborate on Any Web Related Projects
 - 📫 How to reach me: Ameer10194@gmail.com
 
