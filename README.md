@@ -25,6 +25,14 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Ameer-Jamal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js" /></br>
+    <img src="https://skillicons.dev/icons?i=ts,swift,angular" />  
+  </a>
+</p>
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 <br><br>
@@ -32,15 +40,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains)
 <br><br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-<br><br>
+
 ![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
