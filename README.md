@@ -67,11 +67,7 @@
 #### Support if you would like ❤️
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ameerjamal)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ameer-Jamal/Ameer-Jamal/blob/gh-pages/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ameer-Jamal/Ameer-Jamal/blob/gh-pages/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Ameer-Jamal/Ameer-Jamal/blob/gh-pages/github-snake.svg" />
-</picture>
+![GitHub Contribution Snake](Assets/snake.svg)
 
 <!---
 Ameer-Jamal/Ameer-Jamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
