@@ -17,6 +17,9 @@
 <a href="https://github.com/Ameer-Jamal/RemoveImageBG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Maven-Dependency-Update-Script" />
 </a>
+<a href="https://github.com/Ameer-Jamal/readableSQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="readableSQL" />
+</a>
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats.vercel.app/api?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
