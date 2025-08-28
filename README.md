@@ -8,12 +8,6 @@
 <a href="https://github.com/Ameer-Jamal/TestCaseAnalyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=TestCaseAnalyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TestCaseAnalyzer" />
 </a>
-<a href="https://github.com/Ameer-Jamal/Ameer-Jamal.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=Ameer-Jamal.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ameer-Jamal.github.io" />
-</a>
-<a href="https://github.com/Ameer-Jamal/Maven-Dependency-Update-Script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=Maven-Dependency-Update-Script&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Maven-Dependency-Update-Script" />
-</a>
 <a href="https://github.com/Ameer-Jamal/RemoveImageBG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Maven-Dependency-Update-Script" />
 </a>
