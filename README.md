@@ -23,6 +23,7 @@
 <a href="https://github.com/Ameer-Jamal/localPilot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
 </a>
+
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats.vercel.app/api?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
