@@ -1,32 +1,28 @@
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <a href="https://github.com/Ameer-Jamal/ChatGpt-Material-Dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ChatGpt-Material-Dark" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ChatGpt-Material-Dark" />
 </a>
 <a href="https://github.com/Ameer-Jamal/PingPoint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PingPoint" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PingPoint" />
 </a>
 <a href="https://github.com/Ameer-Jamal/TestCaseAnalyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=TestCaseAnalyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TestCaseAnalyzer" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=TestCaseAnalyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TestCaseAnalyzer" />
 </a>
 <a href="https://github.com/Ameer-Jamal/RemoveImageBG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Maven-Dependency-Update-Script" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveImageBG" />
 </a>
 <a href="https://github.com/Ameer-Jamal/readableSQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="readableSQL" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="readableSQL" />
 </a>
 <a href="https://github.com/Ameer-Jamal/localPilot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
+  <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
 </a>
 
-# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
-![](https://github-readme-stats.vercel.app/api?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ameer-Jamal&theme=material-palenight&hide_border=false)
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
+![](https://github-readme-stats-rosy-delta-12.vercel.app/api?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
+![](https://github-readme-stats-rosy-delta-12.vercel.app/api/top-langs/?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
-
-![](https://github-profile-trophy.vercel.app/?username=Ameer-Jamal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 <p align="left">
