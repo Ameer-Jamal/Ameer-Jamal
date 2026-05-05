@@ -3,8 +3,8 @@
   <a href="https://github.com/Ameer-Jamal/ChatGpt-Material-Dark">
     <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ChatGpt-Material-Dark" />
   </a>
-  <a href="https://github.com/Ameer-Jamal/PingPoint">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PingPoint" />
+    <a href="https://github.com/Ameer-Jamal/localPilot">
+    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
   <a href="https://github.com/Ameer-Jamal/readableSQL">
     <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="readableSQL" />
   </a>
-  <a href="https://github.com/Ameer-Jamal/localPilot">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
+    <a href="https://github.com/Ameer-Jamal/PingPoint">
+    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PingPoint" />
   </a>
 </p>
 
