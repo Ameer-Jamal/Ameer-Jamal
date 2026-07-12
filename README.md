@@ -42,11 +42,6 @@
     <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="localPilot repository" />
   </a>
 </p>
-
-<p align="center">
-  <sub><strong>Interface craft</strong> meets <strong>private AI developer tooling</strong>.</sub>
-</p>
-
 <p align="center">
   <a href="https://github.com/Ameer-Jamal/GitDiffExtractor">
     <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=GitDiffExtractor&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="GitDiffExtractor repository" />
@@ -54,10 +49,6 @@
   <a href="https://github.com/Ameer-Jamal/readableSQL">
     <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="readableSQL repository" />
   </a>
-</p>
-
-<p align="center">
-  <sub><strong>Repository context</strong> and <strong>developer readability</strong> built into practical tools.</sub>
 </p>
 
 <details>
@@ -125,45 +116,107 @@
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ameer-Jamal&bg_color=070D18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=1D4ED8&hide_border=false&border_color=243247&radius=16&custom_title=Contribution%20Activity" alt="Ameer Jamal contribution activity" />
 </p>
-
 <br/>
 
-## Open-source channels
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
-        <img src="https://img.shields.io/badge/GREASY_FORK-Userscripts-0B1220?style=for-the-badge&logo=tampermonkey&logoColor=7DD3FC" alt="Greasy Fork" />
-      </a>
-      <br/><br/>
-      <sub>Browser automation and workflow enhancements.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://userstyles.world/user/Ameer-Jamal">
-        <img src="https://img.shields.io/badge/USERSTYLES.WORLD-UI_Themes-0B1220?style=for-the-badge&logo=css3&logoColor=A78BFA" alt="Userstyles.world" />
-      </a>
-      <br/><br/>
-      <sub>Interface customization and visual refinement.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://ameer-jamal.github.io">
-        <img src="https://img.shields.io/badge/PORTFOLIO-Interactive-0B1220?style=for-the-badge&logo=githubpages&logoColor=60A5FA" alt="Interactive portfolio" />
-      </a>
-      <br/><br/>
-      <sub>Projects, experiments, and an interactive physics experience.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+## Contribution trail
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ameer-jamal/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="Connect on LinkedIn" />
+  <img src="./Assets/snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</p>
+
+<br/>
+<br/>
+
+<!-- OPEN-SOURCE CHANNELS -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:A78BFA"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<h3 align="center">Open-Source Channels</h3>
+
+<p align="center">
+  <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
+    <img
+      align="center"
+      src="https://cdn.simpleicons.org/tampermonkey/7DD3FC"
+      width="32"
+      height="32"
+      alt="Greasy Fork"
+    /><img
+      align="center"
+      src="https://img.shields.io/badge/GREASY_FORK-USERSCRIPTS-0B1220?style=for-the-badge&labelColor=111827"
+      height="32"
+      alt="Greasy Fork userscripts"
+    />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://userstyles.world/user/Ameer-Jamal">
+    <img
+      align="center"
+      src="https://cdn.simpleicons.org/css/ A78BFA"
+      width="32"
+      height="32"
+      alt="Userstyles.world"
+    /><img
+      align="center"
+      src="https://img.shields.io/badge/USERSTYLES.WORLD-UI_THEMES-0B1220?style=for-the-badge&labelColor=111827"
+      height="32"
+      alt="Userstyles.world themes"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ameer-jamal.github.io">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png"
+      width="32"
+      height="32"
+      alt="Portfolio"
+    /><img
+      align="center"
+      src="https://img.shields.io/badge/PORTFOLIO-INTERACTIVE-0B1220?style=for-the-badge&labelColor=111827"
+      height="32"
+      alt="Interactive portfolio"
+    />
+  </a>
+</p>
+
+<br/>
+
+<!-- CONNECT + SUPPORT -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ameer-jamal/">
+    <img
+      align="center"
+      src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+      width="36"
+      height="36"
+      alt="LinkedIn"
+    /><img
+      align="center"
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0B1220?style=for-the-badge&labelColor=111827"
+      height="36"
+      alt="Connect with Ameer Jamal on LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://buymeacoffee.com/ameerjamal">
-    <img src="https://img.shields.io/badge/SUPPORT_OPEN_SOURCE-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FBBF24" alt="Support open source" />
+    <img
+      align="center"
+      src="https://cdn.simpleicons.org/buymeacoffee/FFDD00"
+      width="36"
+      height="36"
+      alt="Buy Me a Coffee"
+    /><img
+      align="center"
+      src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_OPEN_SOURCE-0B1220?style=for-the-badge&labelColor=111827"
+      height="36"
+      alt="Support Ameer Jamal's open-source work"
+    />
   </a>
 </p>
 
