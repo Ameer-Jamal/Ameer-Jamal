@@ -1,115 +1,172 @@
-## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+<p align="center">
+  <img src="./Assets/hero.svg" width="100%" alt="Ameer Jamal — Senior Full-Stack Engineer building production systems, AI tools, and automation" />
+</p>
+
+<p align="center">
+  <a href="#featured-systems">
+    <img src="https://img.shields.io/badge/FEATURED_WORK-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Featured work" />
+  </a>
+  <a href="#engineering-surface-area">
+    <img src="https://img.shields.io/badge/ENGINEERING_RANGE-0B1220?style=for-the-badge&logo=stackblitz&logoColor=A78BFA" alt="Engineering range" />
+  </a>
+  <a href="#live-github-signal">
+    <img src="https://img.shields.io/badge/LIVE_ACTIVITY-0B1220?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="GitHub activity" />
+  </a>
+  <a href="https://ameer-jamal.github.io">
+    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=githubpages&logoColor=F8FAFC" alt="Interactive portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Senior Full-Stack Engineer at Octave | ETQ</strong><br/>
+  Building production applications, cloud systems, AI-assisted engineering tools, automation, and open-source software.
+</p>
+
+<p align="center">
+  <img src="./Assets/signal.svg" width="100%" alt="Production systems, AI developer tools, engineering automation, and open source" />
+</p>
+
+<a id="featured-systems"></a>
+
+## Featured systems
+
+<p>
+  My projects focus on a consistent problem: reducing the distance between an engineering problem and a reliable solution.
+</p>
+
 <p align="center">
   <a href="https://github.com/Ameer-Jamal/ChatGpt-Material-Dark">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ChatGpt-Material-Dark" />
+    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="ChatGPT Material Dark repository" />
   </a>
-    <a href="https://github.com/Ameer-Jamal/localPilot">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="localPilot" />
+  <a href="https://github.com/Ameer-Jamal/localPilot">
+    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="localPilot repository" />
   </a>
+</p>
+
+<p align="center">
+  <sub><strong>Interface craft</strong> meets <strong>private AI developer tooling</strong>.</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ameer-Jamal/GitDiffExtractor">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=GitDiffExtractor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitDiffExtractor" />
+    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=GitDiffExtractor&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="GitDiffExtractor repository" />
   </a>
-  <a href="https://github.com/Ameer-Jamal/RemoveImageBG">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveImageBG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Ameer-Jamal/readableSQL">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="readableSQL" />
+    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="readableSQL repository" />
   </a>
+</p>
+
+<p align="center">
+  <sub><strong>Repository context</strong> and <strong>developer readability</strong> built into practical tools.</sub>
+</p>
+
+<details>
+  <summary><strong>Explore more projects</strong></summary>
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/Ameer-Jamal/RemoveImageBG">
+      <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="RemoveImageBG repository" />
+    </a>
     <a href="https://github.com/Ameer-Jamal/PingPoint">
-    <img align="center" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PingPoint" />
+      <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="PingPoint repository" />
+    </a>
+  </p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Ameer-Jamal?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Explore all repositories" />
   </a>
 </p>
 
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
+<br/>
+
+<a id="engineering-surface-area"></a>
+
+## Engineering surface area
 
 <p align="center">
-  <img src="https://github-readme-stats-rosy-delta-12.vercel.app/api?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" />
-  <img src="https://github-readme-stats-rosy-delta-12.vercel.app/api/top-langs/?username=Ameer-Jamal&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="./Assets/capabilities.svg" width="100%" alt="Product engineering, AI developer tooling, cloud systems, engineering automation, and developer experience" />
 </p>
 
+<br/>
 
-## 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+## Technology constellation
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=ts,swift,angular" />  
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,aws,docker,mysql,postgres&perline=10&theme=dark" alt="Primary engineering stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,maven,gradle,idea,pycharm,vscode,linux,apple&perline=10&theme=dark" alt="Development tools and platforms" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ameer-Jamal?tab=repositories&q=&type=&language=typescript">
+    <img src="https://img.shields.io/badge/EXPLORE_TYPESCRIPT-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="Explore TypeScript repositories" />
+  </a>
+  <a href="https://github.com/Ameer-Jamal?tab=repositories&q=&type=&language=python">
+    <img src="https://img.shields.io/badge/EXPLORE_PYTHON-111827?style=flat-square&logo=python&logoColor=F7DF1E" alt="Explore Python repositories" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+<br/>
+
+<a id="live-github-signal"></a>
+
+## GitHub signal
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api?username=Ameer-Jamal&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="Ameer Jamal GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/top-langs/?username=Ameer-Jamal&layout=compact&langs_count=10&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&bg_color=070D18&border_color=243247" alt="Ameer Jamal top GitHub languages" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains" />
-  <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains" />
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ameer-Jamal&bg_color=070D18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=1D4ED8&hide_border=false&border_color=243247&radius=16&custom_title=Contribution%20Activity" alt="Ameer Jamal contribution activity" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black" />
-  <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<br/>
 
-<p align="left">
+## Open-source channels
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
+        <img src="https://img.shields.io/badge/GREASY_FORK-Userscripts-0B1220?style=for-the-badge&logo=tampermonkey&logoColor=7DD3FC" alt="Greasy Fork" />
+      </a>
+      <br/><br/>
+      <sub>Browser automation and workflow enhancements.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://userstyles.world/user/Ameer-Jamal">
+        <img src="https://img.shields.io/badge/USERSTYLES.WORLD-UI_Themes-0B1220?style=for-the-badge&logo=css3&logoColor=A78BFA" alt="Userstyles.world" />
+      </a>
+      <br/><br/>
+      <sub>Interface customization and visual refinement.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://ameer-jamal.github.io">
+        <img src="https://img.shields.io/badge/PORTFOLIO-Interactive-0B1220?style=for-the-badge&logo=githubpages&logoColor=60A5FA" alt="Interactive portfolio" />
+      </a>
+      <br/><br/>
+      <sub>Projects, experiments, and an interactive physics experience.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ameer-jamal/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="Connect on LinkedIn" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Userscripts-4E9A06?style=flat-square&logo=greasemonkey&logoColor=white" />
-  <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
-    <img src="https://img.shields.io/badge/-Greasy%20Fork-4E9A06?style=flat-square&logo=greasemonkey&logoColor=white" />
-  </a>
-  <a href="https://userstyles.world/user/Ameer-Jamal">
-    <img src="https://img.shields.io/badge/-Userstyles-000000?style=flat-square&logo=userstyles&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Bookmarklets-FF5733?style=flat-square&logo=bookmark&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Alexa%20Development-41BDF5?style=flat-square&logo=amazon-alexa&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
-
-
-#### Full Stack Software Engineer at
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMbyxfXPz48fqgQK6sg4fuRGQftM-Uai6bQ&s" width="200"/>
-</p>
-
-
-#### Support if you would like
-<p align="left">
   <a href="https://buymeacoffee.com/ameerjamal">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/SUPPORT_OPEN_SOURCE-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FBBF24" alt="Support open source" />
   </a>
 </p>
 
-
-<p align="left">
-  <img src="Assets/snake.svg" />
+<p align="center">
+  <img src="./Assets/footer.svg" width="100%" alt="Build useful systems. Remove friction. Ship with intent." />
 </p>
-
-<!---
-Ameer-Jamal/Ameer-Jamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
---->
