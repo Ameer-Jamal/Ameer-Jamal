@@ -13,15 +13,27 @@
     <img src="https://img.shields.io/badge/LIVE_ACTIVITY-0B1220?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="GitHub activity" />
   </a>
   <a href="https://ameer-jamal.github.io">
-    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=githubpages&logoColor=F8FAFC" alt="Interactive portfolio" />
+    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=ghostfolio&logoColor=#019DF4" alt="Interactive portfolio" />
   </a>
 </p>
+<div align="center">
+  <img
+    width="2172"
+    height="724"
+    alt="Senior Full-Stack Engineer at Octave | ETQ"
+    src="https://github.com/user-attachments/assets/2d06d1d6-833b-4081-ae56-874aec322f86"
+  />
 
-<p align="center">
-  <strong>Senior Full-Stack Engineer at Octave | ETQ</strong><br/>
-  Building production applications, cloud systems, AI-assisted engineering tools, automation, and open-source software.
-</p>
+  <br/><br/>
 
+  <sub>
+     The work featured on this profile represents personal and open-source projects built outside my professional role.
+  </sub>
+</div>
+
+  <br/><br/>
+  
+</div>
 <p align="center">
   <img src="./Assets/signal.svg" width="100%" alt="Production systems, AI developer tools, engineering automation, and open source" />
 </p>
