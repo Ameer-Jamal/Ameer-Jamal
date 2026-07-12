@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=ghostfolio&logoColor=#019DF4" alt="Interactive portfolio" />
   </a>
 </p>
+
 <div align="center">
   <img
     width="2172"
@@ -23,9 +24,6 @@
     alt="Senior Full-Stack Engineer at Octave | ETQ"
     src="https://github.com/user-attachments/assets/2d06d1d6-833b-4081-ae56-874aec322f86"
   />
-
-  <br/><br/>
-
   <sub>
      The work featured on this profile represents personal and open-source projects built outside my professional role.
   </sub>
