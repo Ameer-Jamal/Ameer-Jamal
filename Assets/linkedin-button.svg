@@ -1,0 +1,37 @@
+<svg width="600" height="68" viewBox="0 0 600 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="68">
+      <stop stop-color="#07101D"/>
+      <stop offset="1" stop-color="#0A1423"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="600" y2="0">
+      <stop stop-color="#0A66C2" stop-opacity=".85"/>
+      <stop offset=".5" stop-color="#3B82F6" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity=".25"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+      .pulse { animation:pulse 3s ease-in-out infinite; }
+      .arrow { animation:arrow 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:.45} 50%{opacity:1} }
+      @keyframes arrow { 0%,100%{transform:translateX(0)} 50%{transform:translateX(4px)} }
+      @media (prefers-reduced-motion: reduce) { * { animation:none!important; } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="67" rx="15.5" fill="url(#bg)" stroke="#243247"/>
+  <path d="M16 1H584" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="14" y="10" width="56" height="48" rx="12" fill="#0B1727" stroke="#0A66C2" stroke-opacity=".35"/>
+  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEeElEQVR4nO2dS4wURRjHe2o1JisHMTEa48EQLh4UPHjUsHrxoImJhhgRBcR40BugEdA1JlrfrCQbwaghhHiRhADKW8UDaghosslULfsAlJ3ZGdkHsjxWYGdmH5+p3ngQ59E7O91VM/3/Jf/LJj3T9f2yVV3dnfk8DwAAAAAAAAAAAACAuCLVo0KmXhZSrROy+53mjFpnxuh1pJZ6TvKJulOQek+QGhSkOVaROiNIbzI18FygJamfElINWy8MWc+QJ1PLrMoQUq8SpCcdKAY7EamLQqpX7NiQ+glBqmC9CORYpC62JFNt0cpo71mAaUpXknLBa+9qjczH7ALuwMDJ4Ui9MRobzAlBKmt9wOR4pM6YWkWzz7A9WGqMePL0ktB9iKRaaXugolGS7F4RvhCpN1gfKDVIpN4QupCE1B9YHyg1RkytIITcifNCntmT5mMD43x5YorzUzN8dizPH58c5bs7e6wXT8RNCJ0a5XKcu5zn+7f1Wi9gbIQ8uyfN1Tj4+zXrBYyNkB/Tf1cVMsPMi77ot17EWAi5kp/iILx4YNB6EWMhxCzgQXjtaM56EWMhpPeviUBC2r7+w3oRYyHkwxMjVWVkrxX5jo5u60WMhZC7Onv8S9tymAntuX1p6wWMjRCTBz7r8zeFt5IbLzalDOG6kH/z0PYzvPJQltccyfprRrNNU6LRhMQpCQjRTgVCyK04K+SN73OB8vCOsyWPX/xlf+DPaN1Sek0ya9VjX53j57/J8NqjOV51OOvffTZ/C2sdc1ZIUN469mfJ45fvzwT+jHu3/veusblw2HvmKt+cnC57zHhh2r+5ab7ntiSEhCJkYWcP7+67wnNFX5zgJ3edh5B6Crlva2/g2zWlmJye4Td/KH0uEEJzE2I2oL9euMH1YPPPwxAi5ilkpx7jemFu6Ty9ewBCxDyE1Jv01ULNV2EQEhIrDtb24AxCQqJr+CaEiDoIMbf8Pzo56m8CX/8ux8lTF7n/UvnHAJUwm1MIodqEmMV440/DfHvy/3N/C2lefSTLN4rlN4qlePVwFkJEjULe/2Wk6jm17Trv7zeCsj01BiGiBiFmvm8JeF5mCgvKidx1CBE1CHnh20zg8zI7+qBvxPRdykOIqEHIg5/3zencjg9Wf4nPMHJ9EkJEDULu+XRuL25v+S3YtFWYmoEQEYGQt48PBfpcM7FBCM3/eUi1mO+EEAipHxCiIWQ5hEDIrUAIQQiEVABCCEIgpAIQQhACIRWAEIIQCKkAhBCEQEgFIIQgBEIqACEEIRBShaYREtckIETHTwh+Jla79TOxfvcc2wOlhslLoQsxbX4cGCg3QryO7kfCFzI7bQ3YHqxwP+lIZPhCSG9yYMDsdtS7ETcB00P2B63djFS5SBu6+CT142h5pEvI0EVrzcFMAyy/EZbtIpArUQW/v6FVZGqZ6blkvxja8n+GyplGaZ4TtHe1mp5L5soifiL0gL+AR75mBEWeXjK7eVTrE6SoGSNIrZ9tvRrRPgMAAAAAAAAAAAAAAM89/gHPoq4D6D6EdgAAAABJRU5ErkJggg==" x="22" y="14" width="40" height="40" preserveAspectRatio="xMidYMid meet"/>
+  <circle cx="573" cy="34" r="4" fill="#0A66C2" filter="url(#glow)" class="pulse"/>
+  <text x="88" y="29" class="mono" font-size="12" font-weight="800" letter-spacing="1.4" fill="#E5EEF9">LINKEDIN</text>
+  <text x="88" y="48" class="sans" font-size="11.5" fill="#8294AB">Professional profile and engineering updates</text>
+  <g class="arrow">
+    <path d="M548 34H564M558 28L564 34L558 40"
+          stroke="#0A66C2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
