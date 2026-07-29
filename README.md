@@ -4,60 +4,68 @@
 
 <p align="center">
   <a href="#featured-systems">
-    <img src="https://img.shields.io/badge/FEATURED_WORK-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Featured work" />
+    <img height="30" src="https://img.shields.io/badge/FEATURED_WORK-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Featured work" />
   </a>
   <a href="#engineering-surface-area">
-    <img src="https://img.shields.io/badge/ENGINEERING_RANGE-0B1220?style=for-the-badge&logo=stackblitz&logoColor=A78BFA" alt="Engineering range" />
+    <img height="30" src="https://img.shields.io/badge/ENGINEERING_RANGE-0B1220?style=for-the-badge&logo=stackblitz&logoColor=A78BFA" alt="Engineering range" />
   </a>
+    
   <a href="#live-github-signal">
-    <img src="https://img.shields.io/badge/LIVE_ACTIVITY-0B1220?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="GitHub activity" />
+    <img height="30" src="https://img.shields.io/badge/GITHUB_ACTIVITY-0B1220?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="GitHub activity" />
   </a>
   <a href="https://ameer-jamal.github.io">
-    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=ghostfolio&logoColor=#019DF4" alt="Interactive portfolio" />
+    <img height="30" src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=019DF4" alt="Interactive portfolio" />
   </a>
 </p>
 
 <div align="center">
   <img
-    width="2172"
-    height="724"
+    width="100%"
     alt="Senior Full-Stack Engineer at Octave | ETQ"
     src="https://github.com/user-attachments/assets/2d06d1d6-833b-4081-ae56-874aec322f86"
   />
+
+  <br/>
+
   <sub>
-     The work featured on this profile represents personal and open-source projects built outside my professional role.
+    The work featured on this profile represents personal and open-source projects built outside my professional role.
   </sub>
 </div>
 
-  <br/><br/>
-  
-</div>
+<br/>
+
 <p align="center">
-  <img src="./Assets/signal.svg" width="100%" alt="Production systems, AI developer tools, engineering automation, and open source" />
+  <img
+    src="./Assets/signal.svg"
+    width="100%"
+    alt="Production systems, AI developer tools, engineering automation, and open source"
+  />
 </p>
+
+ 
 
 <a id="featured-systems"></a>
 
 ## Featured systems
-
-<p>
-  My projects focus on a consistent problem: reducing the distance between an engineering problem and a reliable solution.
+<p align="center">
+  <sub>
+    My projects reduce the distance between an engineering problem and a reliable solution.
+  </sub>
 </p>
-
 <p align="center">
   <a href="https://github.com/Ameer-Jamal/ChatGpt-Material-Dark">
-    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="ChatGPT Material Dark repository" />
+    <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=ChatGpt-Material-Dark&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="ChatGPT Material Dark repository" />
   </a>
   <a href="https://github.com/Ameer-Jamal/localPilot">
-    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="localPilot repository" />
+    <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=localPilot&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="localPilot repository" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ameer-Jamal/GitDiffExtractor">
-    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=GitDiffExtractor&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="GitDiffExtractor repository" />
+    <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=GitDiffExtractor&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="GitDiffExtractor repository" />
   </a>
   <a href="https://github.com/Ameer-Jamal/readableSQL">
-    <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="readableSQL repository" />
+    <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=readableSQL&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="readableSQL repository" />
   </a>
 </p>
 
@@ -70,7 +78,7 @@
       <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=RemoveImageBG&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="RemoveImageBG repository" />
     </a>
     <a href="https://github.com/Ameer-Jamal/PingPoint">
-      <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="PingPoint repository" />
+      <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/pin/?username=Ameer-Jamal&repo=PingPoint&show_owner=false&show_icons=true&border_radius=16&title_color=7DD3FC&text_color=94A3B8&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="PingPoint repository" />
     </a>
   </p>
 </details>
@@ -119,8 +127,8 @@
 ## GitHub signal
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api?username=Ameer-Jamal&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="Ameer Jamal GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/top-langs/?username=Ameer-Jamal&layout=compact&langs_count=10&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&bg_color=070D18&border_color=243247" alt="Ameer Jamal top GitHub languages" />
+  <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api?username=Ameer-Jamal&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&icon_color=A78BFA&bg_color=070D18&border_color=243247" alt="Ameer Jamal GitHub statistics" />
+  <img width="47%" src="https://github-readme-stats-rosy-delta-12.vercel.app/api/top-langs/?username=Ameer-Jamal&layout=compact&langs_count=10&border_radius=16&title_color=7DD3FC&text_color=C8D5E6&bg_color=070D18&border_color=243247" alt="Ameer Jamal top GitHub languages" />
 </p>
 
 <p align="center">
@@ -149,85 +157,20 @@
 <h3 align="center">Open-Source Channels</h3>
 
 <p align="center">
-  <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
-    <img
-      align="center"
-      src="https://cdn.simpleicons.org/tampermonkey/7DD3FC"
-      width="32"
-      height="32"
-      alt="Greasy Fork"
-    /><img
-      align="center"
-      src="https://img.shields.io/badge/GREASY_FORK-USERSCRIPTS-0B1220?style=for-the-badge&labelColor=111827"
-      height="32"
-      alt="Greasy Fork userscripts"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://userstyles.world/user/Ameer-Jamal">
-    <img
-      align="center"
-      src="https://cdn.simpleicons.org/css/ A78BFA"
-      width="32"
-      height="32"
-      alt="Userstyles.world"
-    /><img
-      align="center"
-      src="https://img.shields.io/badge/USERSTYLES.WORLD-UI_THEMES-0B1220?style=for-the-badge&labelColor=111827"
-      height="32"
-      alt="Userstyles.world themes"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ameer-jamal.github.io">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png"
-      width="32"
-      height="32"
-      alt="Portfolio"
-    /><img
-      align="center"
-      src="https://img.shields.io/badge/PORTFOLIO-INTERACTIVE-0B1220?style=for-the-badge&labelColor=111827"
-      height="32"
-      alt="Interactive portfolio"
-    />
-  </a>
+  <a href="https://greasyfork.org/en/users/1143193-ameer-jamal"><img align="center" src="https://cdn.simpleicons.org/tampermonkey/7DD3FC" width="28" height="28" alt="Greasy Fork" /><img align="center" src="https://img.shields.io/badge/GREASY_FORK-USERSCRIPTS-0B1220?style=for-the-badge&labelColor=111827" height="28" alt="Greasy Fork userscripts" /></a>
+  <a href="https://userstyles.world/user/Ameer-Jamal"><img align="center" src="https://cdn.simpleicons.org/css/ A78BFA" width="28" height="28" alt="Userstyles.world" /><img align="center" src="https://img.shields.io/badge/USERSTYLES-UI_THEMES-0B1220?style=for-the-badge&labelColor=111827" height="28" alt="Userstyles.world themes" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ameer-jamal.github.io"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png" width="30" height="30" alt="Portfolio" /><img align="center" src="https://img.shields.io/badge/PORTFOLIO-INTERACTIVE_EXPERIENCE-0B1220?style=for-the-badge&labelColor=111827" height="30" alt="Interactive portfolio" /></a>
 </p>
 
 <br/>
 
 <!-- CONNECT + SUPPORT -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ameer-jamal/">
-    <img
-      align="center"
-      src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
-      width="36"
-      height="36"
-      alt="LinkedIn"
-    /><img
-      align="center"
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0B1220?style=for-the-badge&labelColor=111827"
-      height="36"
-      alt="Connect with Ameer Jamal on LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/ameerjamal">
-    <img
-      align="center"
-      src="https://cdn.simpleicons.org/buymeacoffee/FFDD00"
-      width="36"
-      height="36"
-      alt="Buy Me a Coffee"
-    /><img
-      align="center"
-      src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_OPEN_SOURCE-0B1220?style=for-the-badge&labelColor=111827"
-      height="36"
-      alt="Support Ameer Jamal's open-source work"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/ameer-jamal/"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="32" height="32" alt="LinkedIn" /><img align="center" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&labelColor=111827" height="32" alt="Connect on LinkedIn" /></a>
+  <a href="https://buymeacoffee.com/ameerjamal"><img align="center" src="https://cdn.simpleicons.org/buymeacoffee/FFDD00" width="32" height="32" alt="Buy Me a Coffee" /><img align="center" src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT-0B1220?style=for-the-badge&labelColor=111827" height="32" alt="Support open source" /></a>
 </p>
 
 <p align="center">
