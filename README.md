@@ -174,7 +174,7 @@
 
 <br/>
 
-<h2 align="center">Technology constellation</h2>
+<h2 align="center">Technology Focus</h2>
 
 <p align="center">
   <img
@@ -214,7 +214,7 @@
 
 <a id="live-github-signal"></a>
 
-<h2 align="center">GitHub signal</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <!-- GITHUB STATISTICS -->
 <p align="center">
@@ -241,11 +241,7 @@
     alt="Ameer Jamal contribution activity"
   />
 </p>
-
-<br/>
-
-<h2 align="center">Contribution trail</h2>
-
+ 
 <p align="center">
   <img
     src="./Assets/snake.svg"
@@ -265,7 +261,7 @@
   />
 </p>
 
-<h2 align="center">Open-source channels</h2>
+<h2 align="center">Channels</h2>
 
 <p align="center">
   <a href="https://greasyfork.org/en/users/1143193-ameer-jamal">
