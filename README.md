@@ -237,7 +237,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ameer-Jamal&bg_color=070D18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=1D4ED8&hide_border=false&border_color=243247&radius=16&custom_title=Contribution%20Activity"
+    src="https://ameer-readme-activity-graph-ge9y.vercel.app/graph?username=Ameer-Jamal&bg_color=070D18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=1D4ED8&hide_border=false&border_color=243247&radius=16&custom_title=Contribution%20Activity"
     alt="Ameer Jamal contribution activity"
   />
 </p>
