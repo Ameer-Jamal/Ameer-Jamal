@@ -6,6 +6,23 @@
   />
 </p>
 
+<!-- PROFESSIONAL POSITION -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://github.com/user-attachments/assets/2d06d1d6-833b-4081-ae56-874aec322f86"
+    alt="Senior Full-Stack Engineer at Octave | ETQ"
+  />
+
+  <br/>
+
+  <sub>
+    This profile features personal projects and open-source software developed independently of my professional work.
+  </sub>
+</div>
+
+<br/>
+
 <!-- SIGNED-IN AND SIGNED-OUT SAFE NAVIGATION -->
 <p align="center">
   <a href="#featured-systems">
@@ -44,24 +61,6 @@
 </p>
 
 <br/>
-
-<!-- PROFESSIONAL POSITION -->
-<div align="center">
-  <img
-    width="100%"
-    src="https://github.com/user-attachments/assets/2d06d1d6-833b-4081-ae56-874aec322f86"
-    alt="Senior Full-Stack Engineer at Octave | ETQ"
-  />
-
-  <br/>
-
-  <sub>
-    This profile features personal projects and open-source software developed independently of my professional work.
-  </sub>
-</div>
-
-<br/>
-
 <p align="center">
   <img
     src="./Assets/signal.svg"
